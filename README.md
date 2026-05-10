@@ -110,17 +110,6 @@ Handles basic Responsible AI checks:
 - Filters unsafe inputs
 - Ensures neutral response behavior
 
-# Key Idea
-
-This project focuses on building a **modular AI Agent architecture**, not just a chatbot.
-
-It demonstrates:
-- Multi-layer AI design
-- Orchestration logic
-- Stateful conversation systems
-- Supervisor-based control flow
-- Business simulation behavior
-
 # How to Run
 
 ```bash
